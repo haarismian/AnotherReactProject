@@ -25,7 +25,7 @@ Quick react and .net Create-Read-Update-Delete for a employee management page pr
 ![image6](https://github.com/haarismian/AnotherReactProject/blob/master/images/6.png?raw=true)
 
 ## Data Layer to add employees
-![image5](https://github.com/haarismian/AnotherReactProject/blob/master/images/5.png?raw=true)
+![image5](https://github.com/haarismian/AnotherReactProject/blob/master/images/5.PNG?raw=true)
 
 ## API Layer
 ![image5](https://github.com/haarismian/AnotherReactProject/blob/master/images/7.png?raw=true)
