@@ -1,5 +1,5 @@
 # Introduction
-Quick react and .net Create-Read-Update-Delete for a team management page project for Yvonne
+Quick react and .net Create-Read-Update-Delete for a employee management page project for Yvonne
 
 # Features
 1. .NET Core backend
@@ -10,4 +10,22 @@ Quick react and .net Create-Read-Update-Delete for a team management page projec
 6. Separated layers (Logic and data access)
 
 # App screenshots
+## Intro Screen - All users retrieved from SQL DB
 ![image1](https://github.com/haarismian/AnotherReactProject/blob/master/images/1.png?raw=true)
+## Team Management Screen
+![image2](https://github.com/haarismian/AnotherReactProject/blob/master/images/2.png?raw=true)
+## Add a team member
+![image3](https://github.com/haarismian/AnotherReactProject/blob/master/images/3.png?raw=true)
+## Successfully added
+![image4](https://github.com/haarismian/AnotherReactProject/blob/master/images/4.png?raw=true)
+
+# Code screenshots
+
+## Employee data model
+![image6](https://github.com/haarismian/AnotherReactProject/blob/master/images/6.png?raw=true)
+
+## Data Layer to add employees
+![image5](https://github.com/haarismian/AnotherReactProject/blob/master/images/5.png?raw=true)
+
+## API Layer
+![image5](https://github.com/haarismian/AnotherReactProject/blob/master/images/7.png?raw=true)
