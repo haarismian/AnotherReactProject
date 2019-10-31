@@ -1,7 +1,7 @@
-#Introduction
+# Introduction
 Quick react and .net Create-Read-Update-Delete for a team management page project for Yvonne
 
-#Features
+# Features
 1. .NET Core backend
 2. ReactJS components
 3. SQL Database
@@ -9,5 +9,5 @@ Quick react and .net Create-Read-Update-Delete for a team management page projec
 5. MVC pattern
 6. Separated layers (Logic and data access)
 
-#App screenshots
+# App screenshots
 (images/1.png)
