@@ -10,9 +10,9 @@ Quick react and .net Create-Read-Update-Delete for a employee management page pr
 6. Separated layers (Logic and data access)
 
 # App screenshots
-## Intro Screen - All users retrieved from SQL DB
+## Intro Screen
 ![image1](https://github.com/haarismian/AnotherReactProject/blob/master/images/1.png?raw=true)
-## Team Management Screen
+## Team Management Screen - All users retrieved from SQL DB
 ![image2](https://github.com/haarismian/AnotherReactProject/blob/master/images/2.png?raw=true)
 ## Add a team member
 ![image3](https://github.com/haarismian/AnotherReactProject/blob/master/images/3.png?raw=true)
