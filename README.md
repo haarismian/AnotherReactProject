@@ -10,4 +10,4 @@ Quick react and .net Create-Read-Update-Delete for a team management page projec
 6. Separated layers (Logic and data access)
 
 # App screenshots
-![image1](https://github.com/haarismian/AnotherReactProject/tree/master/images/1.png)
+![image1](https://github.com/haarismian/AnotherReactProject/blob/master/images/1.png?raw=true)
